@@ -192,10 +192,6 @@ npm run dev
   - "Summarize the key findings from the uploaded report"
   - "Show me insights about sales performance"
 
-### 3. View Chat History
-- Access previous conversations
-- Context is maintained across sessions
-
 ## 🔧 API Endpoints
 
 ### File Management
