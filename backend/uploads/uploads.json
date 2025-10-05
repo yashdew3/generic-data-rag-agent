@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2beabd4d77da4e45ad3fa37f10a933cf",
+    "original_name": "modified_file.csv",
+    "stored_name": "2beabd4d77da4e45ad3fa37f10a933cf.csv",
+    "content_type": "text/csv",
+    "size": 110231,
+    "uploaded_at": "2025-10-05T07:45:16.286233Z"
+  },
+  {
+    "id": "e71e8a0828e04f9d966e30505bd60710",
+    "original_name": "modified_file.csv",
+    "stored_name": "e71e8a0828e04f9d966e30505bd60710.csv",
+    "content_type": "text/csv",
+    "size": 110231,
+    "uploaded_at": "2025-10-05T08:00:46.972094Z"
+  },
+  {
+    "id": "1180c43a74fa4e908d439c893eaf5c3d",
+    "original_name": "Product-Sales-Region.xlsx",
+    "stored_name": "1180c43a74fa4e908d439c893eaf5c3d.xlsx",
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "size": 149740,
+    "uploaded_at": "2025-10-05T08:06:26.749805Z"
+  },
+  {
+    "id": "60f41500783643478a78a12471cb9ca2",
+    "original_name": "modified_file.csv",
+    "stored_name": "60f41500783643478a78a12471cb9ca2.csv",
+    "content_type": "text/csv",
+    "size": 110231,
+    "uploaded_at": "2025-10-05T08:18:50.661689Z"
+  },
+  {
+    "id": "801fd850766041cf8a3b9756959f4e32",
+    "original_name": "customers-100.csv",
+    "stored_name": "801fd850766041cf8a3b9756959f4e32.csv",
+    "content_type": "text/csv",
+    "size": 17261,
+    "uploaded_at": "2025-10-05T08:25:45.476216Z"
+  },
+  {
+    "id": "e99ec8bb45ee462c96e26781ec2f0e7c",
+    "original_name": "organizations-1000.csv",
+    "stored_name": "e99ec8bb45ee462c96e26781ec2f0e7c.csv",
+    "content_type": "text/csv",
+    "size": 138066,
+    "uploaded_at": "2025-10-05T08:28:12.289188Z"
+  }
+]
