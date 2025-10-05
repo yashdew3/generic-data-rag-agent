@@ -7,7 +7,7 @@
 
 A powerful **Retrieval-Augmented Generation (RAG)** system that allows users to upload various data formats and interact with them through natural language queries. Built with modern technologies and designed for scalability and ease of use.
 
-![Dashboard](.\frontend\Dashboard.png)
+![Dashboard](frontend/Dashboard.png)
 
 ## 🚀 Features
 
